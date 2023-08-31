@@ -42,6 +42,3 @@ function salvarNota(e) {
 
 salvar.addEventListener('click', salvarNota);
 
-salvar.addEventListener('dblclick', () => {
-    console.log(deletar)
-})

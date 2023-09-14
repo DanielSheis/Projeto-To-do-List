@@ -1,0 +1,22 @@
+
+.checkbox{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.mais-funçoes-conteiner {
+    display: none;
+    position: absolute;
+    background-color: #1a1a1a;
+    align-items: center;
+    gap: 5rem;
+}
+
+.editar, .apagar {
+    border: none;
+    background: #1a1a1a;
+}
+
+.editar:hover, .apagar:hover {
+    color: #7f7ca8;
+}
